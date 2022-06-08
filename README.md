@@ -17,7 +17,7 @@
 I'm always making something in one way or another:
 
 - 🎮&nbsp;&nbsp;Games and music with JIM at <a href="https://romjim.games">ROMJIM</a>  
-- 👨‍💼&nbsp;&nbsp;Engineering management & software architecture at <a href="https://landr.com">LANDR</a>  
+- 👨‍💼&nbsp;&nbsp;&nbsp;Engineering management & software architecture at <a href="https://landr.com">LANDR</a>  
 
 <details style="margin-bottom: 10px">
     <summary>
