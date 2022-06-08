@@ -2,10 +2,11 @@
 ### I like to make things work, move, and feel good 👌
 #### _I am a software architect and full-stack developer with a deep love for UI-driven frontend development._
 
+<br/>
 <a href="https://discord.com/users/nospoone#5097" style="margin-right: 10px">
     <img height="25" width="25" src="https://simpleicons.vercel.app/discord/7289da" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://linkedin.com/in/nospoone">
     <img height="25" width="25" src="https://simpleicons.vercel.app/linkedin/0077b5" />
 </a>
@@ -23,6 +24,7 @@
     <summary>
         <strong>📚&nbsp;&nbsp;Languages</strong>
     </summary>
+    <br/>
     <img height="32" width="32" alt="Typescript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
     <img height="32" width="32" alt="Javascript Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
     <img height="32" width="32" alt="GraphQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />&nbsp;
@@ -36,26 +38,28 @@
 
 <details>
     <summary>
-        **🔨&nbsp;&nbsp;Tools & Frameworks**
+       <strong>🔨&nbsp;&nbsp;Tools & Frameworks</strong>
     </summary>
-        <img height="32" width="32" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-        <img height="32" width="32" alt="Jest Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
-        <img height="32" width="32" alt="Next.js Logo" src="https://simpleicons.vercel.app/nextdotjs/000#gh-light-mode-only" />&nbsp;
-        <img height="32" width="32" alt="Next.js Logo" src="https://simpleicons.vercel.app/nextdotjs/fff#gh-dark-mode-only" />&nbsp;
-        <img height="32" width="32" alt="Node.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-        <img height="32" width="32" alt="Deno.js Logo" src="https://simpleicons.vercel.app/deno/000#gh-light-mode-only" />&nbsp;
-        <img height="32" width="32" alt="Deno.js Logo" src="https://simpleicons.vercel.app/deno/fff#gh-dark-mode-only" />&nbsp;
-        <img height="32" width="32" alt=".NET Core Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
-        <img height="32" width="32" alt="Terraform Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
-        <img height="32" width="32" alt="Unity Logo" src="https://simpleicons.vercel.app/unity/000#gh-light-mode-only" />&nbsp;
-        <img height="32" width="32" alt="Unity Logo" src="https://simpleicons.vercel.app/unity/fff#gh-dark-mode-only" />&nbsp;
-        <img height="32" width="32" alt="Arduino Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />&nbsp;
+    <br/>
+    <img height="32" width="32" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+    <img height="32" width="32" alt="Jest Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
+    <img height="32" width="32" alt="Next.js Logo" src="https://simpleicons.vercel.app/nextdotjs/000#gh-light-mode-only" />&nbsp;
+    <img height="32" width="32" alt="Next.js Logo" src="https://simpleicons.vercel.app/nextdotjs/fff#gh-dark-mode-only" />&nbsp;
+    <img height="32" width="32" alt="Node.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+    <img height="32" width="32" alt="Deno.js Logo" src="https://simpleicons.vercel.app/deno/000#gh-light-mode-only" />&nbsp;
+    <img height="32" width="32" alt="Deno.js Logo" src="https://simpleicons.vercel.app/deno/fff#gh-dark-mode-only" />&nbsp;
+    <img height="32" width="32" alt=".NET Core Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
+    <img height="32" width="32" alt="Terraform Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
+    <img height="32" width="32" alt="Unity Logo" src="https://simpleicons.vercel.app/unity/000#gh-light-mode-only" />&nbsp;
+    <img height="32" width="32" alt="Unity Logo" src="https://simpleicons.vercel.app/unity/fff#gh-dark-mode-only" />&nbsp;
+    <img height="32" width="32" alt="Arduino Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />&nbsp;
 </details>
 
 <details>
     <summary>
-           **🏗️ &nbsp;&nbsp;Infrastructure**
+           <strong>🏗️&nbsp;&nbsp;Infrastructure</strong>
     </summary>
+    <br/>
     <img height="32" width="32" alt="Kubernetes Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
     <img height="32" width="32" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;
     <img height="32" width="32" alt="GitHub Actions Logo" src="https://simpleicons.vercel.app/githubactions/000#gh-light-mode-only" />&nbsp;
