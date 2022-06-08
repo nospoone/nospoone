@@ -5,17 +5,19 @@
 </h4>
 <div style="margin: 25px 0; padding-bottom: 10px; display: flex; border-bottom: 3px #660999 solid;">
     <a href="https://discord.com/users/nospoone#5097" style="margin-right: 10px">
-        <img height="32" width="32" src="https://simpleicons.vercel.app/discord/7289da" />
+        <img height="25" width="25" src="https://simpleicons.vercel.app/discord/7289da" />
     </a>
     <a href="https://linkedin.com/in/nospoone">
-        <img height="32" width="32" src="https://simpleicons.vercel.app/linkedin/0077b5" />
+        <img height="25" width="25" src="https://simpleicons.vercel.app/linkedin/0077b5" />
     </a>
 </div>
 
+---
+
 I'm always making something in one way or another:
 
-<span style="display: inline-block; width: 30px">🎮</span>Games and music with JIM at <a href="https://romjim.games">ROMJIM</a>
-<span style="display: inline-block; width: 30px">👨‍💼</span>Engineering management & software architecture at <a href="https://landr.com">LANDR</a>
+- 🎮&nbsp;&nbsp;Games and music with JIM at <a href="https://romjim.games">ROMJIM</a>  
+- 👨‍💼&nbsp;&nbsp;Engineering management & software architecture at <a href="https://landr.com">LANDR</a>  
 
 <details style="margin-bottom: 10px">
     <summary>
