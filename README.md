@@ -29,11 +29,11 @@
     <img height="32" width="32" alt="GraphQL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />&nbsp;
     <img height="32" width="32" alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/c/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/c/fff" />&nbsp;
         <img height="32" width="32" alt="C Logo" src="https://simpleicons.vercel.app/c/000" />&nbsp;
     </picture>
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/rust/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/rust/fff" />&nbsp;
         <img height="32" width="32" alt="Rust Logo" src="https://simpleicons.vercel.app/rust/000" />&nbsp;
     </picture>
     <img height="32" width="32" alt="Haxe Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" />&nbsp;
@@ -47,18 +47,18 @@
     <img height="32" width="32" alt="React Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
     <img height="32" width="32" alt="Jest Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/nextdotjs/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/nextdotjs/fff" />&nbsp;
         <img height="32" width="32" alt="Next.js Logo" src="https://simpleicons.vercel.app/nextdotjs/000" />&nbsp;
     </picture>
     <img height="32" width="32" alt="Node.js Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/deno/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/deno/fff" />&nbsp;
         <img height="32" width="32" alt="Deno Logo" src="https://simpleicons.vercel.app/deno/000" />&nbsp;
     </picture>
     <img height="32" width="32" alt=".NET Core Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
     <img height="32" width="32" alt="Terraform Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/unity/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/unity/fff" />&nbsp;
         <img height="32" width="32" alt="Unity Logo" src="https://simpleicons.vercel.app/unity/000" />&nbsp;
     </picture>
     <img height="32" width="32" alt="Arduino Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />&nbsp;
@@ -72,7 +72,7 @@
     <img height="32" width="32" alt="Kubernetes Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
     <img height="32" width="32" alt="Docker Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" src="https://simpleicons.vercel.app/githubactions/fff" />&nbsp;
+        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/githubactions/fff" />&nbsp;
         <img height="32" width="32" alt="GitHub Actions Logo" src="https://simpleicons.vercel.app/githubactions/000" />&nbsp;
     </picture>
     <img height="32" width="32" alt="AWS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
