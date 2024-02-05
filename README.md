@@ -37,7 +37,7 @@
         <img height="32" width="32" alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
     </picture>
     <picture>
-        <source width="32" height="32" media="(prefers-color-scheme: dark)" height="32" width="32" srcset="https://simpleicons.vercel.app/c/fff" />&nbsp;
+        <source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/c/fff" />&nbsp;
         <img height="32" width="32" alt="C Logo" src="https://simpleicons.vercel.app/c/000" />&nbsp;
     </picture>
     <picture>
