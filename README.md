@@ -1,5 +1,5 @@
 ![Header Image](assets/header.png)
-### Hey 👋 I’m a highly self-driven frontend engineer who likes designing systems and creating pixel-perfect interfaces. I love making things move, look, and feel good.
+### Hey 👋 I’m a highly self-driven full-stack engineer who likes designing systems and creating pixel-perfect interfaces. I love making things move, look, and feel good.
 #### _Outside of work, you can often find me working on [England in London](https://romjim.games), fiddling with my Neovim config, or unreasonably grinding all achievements in some games._
 
 <br/>
